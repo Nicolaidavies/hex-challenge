@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
   input: string[] = [];
 
   key: string;
-  keys = ['A', 'B', 'C', 'D', 'E', 'F', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+  keys = ['A', 'B', 'C', 'D', 'E', 'F', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
   correct: boolean = null;
 
